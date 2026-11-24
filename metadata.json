@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow",
+  "description": "Smart To-Do List Application for organizing tasks, deadlines, categories, and daily focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
